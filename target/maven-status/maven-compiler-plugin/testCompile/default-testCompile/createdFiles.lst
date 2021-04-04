@@ -1,1 +1,4 @@
 ensta/AppTest.class
+ensta/librarymanager/dao/DaoTest.class
+ensta/librarymanager/service/ServiceTest.class
+ensta/librarymanager/model/ModelTest.class
