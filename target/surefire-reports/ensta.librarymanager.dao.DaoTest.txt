@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ensta.librarymanager.dao.DaoTest
--------------------------------------------------------------------------------
-Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.218 s - in ensta.librarymanager.dao.DaoTest
